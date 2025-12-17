@@ -1,3 +1,4 @@
+
 export enum AppView {
   DASHBOARD = 'DASHBOARD',
   BUDGET = 'BUDGET',
@@ -5,6 +6,12 @@ export enum AppView {
   RISK_BOT = 'RISK_BOT',
   SCHEMES = 'SCHEMES',
   ADVISOR = 'ADVISOR'
+}
+
+export interface UserProfile {
+  name: string;
+  email: string;
+  avatar?: string;
 }
 
 export interface Expense {
