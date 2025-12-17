@@ -2,7 +2,6 @@
 <img width="1200" height="475" alt="GHBanner" src="https://www.shutterstock.com/shutterstock/photos/1039541026/display_1500/stock-photo--d-render-of-a-funny-cartoon-honey-bee-character-holding-a-hot-dog-snack-food-1039541026.jpg" />
 </div>
 
-# Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
